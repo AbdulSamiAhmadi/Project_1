@@ -17,4 +17,15 @@ public class Day5 {
 	System.out.println(publishyear);	
 	
 	}
+	
+	public  void Subtract () {
+
+		int s1 = 10;
+		int s2 = 50;
+		int s3 = 100;
+		
+		int result = s1 + s2 + s3;
+		
+		System.out.println(result);
+}
 }
