@@ -2,6 +2,9 @@ package Day5;
 
 public class Day5 {
 	
+	String name = "Ahmad";
+	String Country = "Afghanistan";
+	
 	public static void main(String[] args) {
 
 	String title = "Director";
