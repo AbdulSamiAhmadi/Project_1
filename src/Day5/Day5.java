@@ -28,4 +28,13 @@ public class Day5 {
 		
 		System.out.println(result);
 }
-}
+	public void getInfo () {
+	String Country = "USA";
+	String State = "VA";
+	int age = 35;
+	System.out.println(Country);
+	System.out.println(State);
+	System.out.println(age);
+
+	
+}}
